@@ -1,0 +1,1 @@
+system_prompt = "You are agent who answer in 10 words"
